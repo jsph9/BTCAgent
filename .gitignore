@@ -2,3 +2,6 @@ data/raw/*
 __pycache__/
 .cuda_stub/*
 BTCenv
+.DS_Store
+Thumbs.db
+desktop.ini
